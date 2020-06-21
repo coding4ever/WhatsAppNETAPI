@@ -1,0 +1,41 @@
+{
+  "xpath_version": 1,
+  "xpath_data": [
+    {
+      "id": "wa_ready_xpath",
+      "xpath": "aPEm2EJzVSSYMIdOyUPeYCEF5kfztRkK9AqW/dvhem2rSoLIcVh4VlKUNqJUloAgVK4kbQKAOQFinB3tKjy1Uw=="
+    },
+    {
+      "id": "search_input_xpath",
+      "xpath": "1CWJwYWgMdfz5dQwvmtvq5XvKtjx0+caWQbOLPMRGP/yqzMfOLsUUnMghc7Ob0q13UL6zeFHTmqxoLJNA+WFeXSgmzzJ204u"
+    },
+	{
+      "id": "chat_input_xpath",
+      "xpath": "1CWJwYWgMdfz5dQwvmtvq5XvKtjx0+caWQbOLPMRGP/yqzMfOLsUUnMghc7Ob0q13UL6zeFHTmqxoLJNA+WFefD5wtkXL0f4"
+    },
+	{
+      "id": "search_contact_by_name_xpath",
+      "xpath": "zcNOhIxqRurIpWaTa6lrZ1Q/DjfzcRY9U2rSxOKhPRlX7UzSaejgv+zhAKKbUdgSGf53oTSwOHI="
+    },
+	{
+      "id": "search_contact_icon_x_not_found_xpath",
+      "xpath": "NNSnnawLeXPLisWzh9sAaMfrYqQz+FsEhKyjEOMXWZU="
+    },
+	{
+      "id": "unread_messages_xpath",
+      "xpath": "NNSnnawLeXP3Hfm8COU4oT7k7MupTBor2Aku52K/iZVS9A0lcLIhcPcd+bwI5TihI5RxLFvSw+U="
+    },
+	{
+      "id": "messages_in_xpath",
+      "xpath": "S+PwFrQ1ueDRMYB+IDAsiPraKCCYXgmbtxw5QoJXlNnwKQ4tL2hWkw=="
+    },
+	{
+      "id": "selectable_message_in_text_class",
+      "xpath": "ZxbIRMa6wEWZlD0VPxFhbQ=="
+    },
+	{
+      "id": "all_chats_title_xpath",
+      "xpath": "aPEm2EJzVSTz5dQwvmtvqz/Sb8BHZxaDlkeoifi8ju7z5dQwvmtvq3g+eLGlN+qV"
+    }
+  ]
+}
