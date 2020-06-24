@@ -36,6 +36,10 @@
 	{
       "id": "all_chats_title_xpath",
       "xpath": "aPEm2EJzVSTz5dQwvmtvqz/Sb8BHZxaDlkeoifi8ju7z5dQwvmtvq3g+eLGlN+qV"
+    },
+	{
+      "id": "messages_in_header_xpath",
+      "xpath": "aPEm2EJzVSR0oDsLqTT1tv+zuzmyNKxdNZA594hf6ilNC0Gr76KGaW2RmyMuP624"
     }
   ]
 }
