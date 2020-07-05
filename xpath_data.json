@@ -1,5 +1,5 @@
 {
-  "xpath_version": 1,
+  "xpath_version": 2,
   "xpath_data": [
     {
       "id": "wa_ready_xpath",
@@ -9,37 +9,65 @@
       "id": "search_input_xpath",
       "xpath": "1CWJwYWgMdfz5dQwvmtvq5XvKtjx0+caWQbOLPMRGP/yqzMfOLsUUnMghc7Ob0q13UL6zeFHTmqxoLJNA+WFeXSgmzzJ204u"
     },
-	{
+    {
       "id": "chat_input_xpath",
       "xpath": "1CWJwYWgMdfz5dQwvmtvq5XvKtjx0+caWQbOLPMRGP/yqzMfOLsUUnMghc7Ob0q13UL6zeFHTmqxoLJNA+WFefD5wtkXL0f4"
     },
-	{
+    {
       "id": "search_contact_by_name_xpath",
       "xpath": "zcNOhIxqRurIpWaTa6lrZ1Q/DjfzcRY9U2rSxOKhPRlX7UzSaejgv+zhAKKbUdgSGf53oTSwOHI="
     },
-	{
+    {
       "id": "search_contact_icon_x_not_found_xpath",
       "xpath": "NNSnnawLeXPLisWzh9sAaMfrYqQz+FsEhKyjEOMXWZU="
     },
-	{
+    {
       "id": "unread_messages_xpath",
       "xpath": "NNSnnawLeXP3Hfm8COU4oT7k7MupTBor2Aku52K/iZVS9A0lcLIhcPcd+bwI5TihI5RxLFvSw+U="
     },
-	{
+    {
       "id": "messages_in_xpath",
       "xpath": "S+PwFrQ1ueDRMYB+IDAsiPraKCCYXgmbtxw5QoJXlNnwKQ4tL2hWkw=="
     },
-	{
+    {
       "id": "selectable_message_in_text_class",
       "xpath": "ZxbIRMa6wEWZlD0VPxFhbQ=="
     },
-	{
+    {
       "id": "all_chats_title_xpath",
       "xpath": "aPEm2EJzVSTz5dQwvmtvqz/Sb8BHZxaDlkeoifi8ju7z5dQwvmtvq3g+eLGlN+qV"
     },
-	{
+    {
       "id": "messages_in_header_xpath",
       "xpath": "aPEm2EJzVSR0oDsLqTT1tv+zuzmyNKxdNZA594hf6ilNC0Gr76KGaW2RmyMuP624"
+    },
+    {
+      "id": "phone_not_valid_xpath",
+      "xpath": "aPEm2EJzVSS8oy11npNucAw6HLE8wYbVGAvFGzIooZfPLV/v7WTeSHWYA15kpzPqbqk96FYd9xFunjeqccKoFj+N3yQquPlt"
+    },
+    {
+      "id": "button_ok_phone_not_valid_xpath",
+      "xpath": "Y7eTQ+X7QnITatMEdYLO11fn/l8ZRB7JgBPvhyRyA+6jrI1i6N1LgRkEB65p6Rm7puq8316mYLxxPPcTIFWcJA=="
+    },
+    {
+      "id": "attach_image_document_xpath",
+      "xpath": "ZK0dhFN6w37U/BsgZq9iWqvRtzbfU8d2i7d0eItWiMBa0nlICWDoTal4Roa9KwUc"
+    },
+    {
+      "id": "image_path_xpath",
+      "xpath": "FqOjdS9LP1uNl4197hJJzs3WSbmoONps5+n7M8871SCqmN3KudXPHFuppq1N0VfAZkhWmqOE22qH7/ADiRDkFQ=="
+    },
+    {
+      "id": "image_caption_xpath",
+      "xpath": "aPEm2EJzVSQ6kKvJlTR+1unk20613ExwL/PWNGHBWOC4SHPEtQdVYf/07/69ro+GSk02rVS+iZaN0L6t5/mlIp8SGr0DnRiPabRtiNisXuHSwkaRsV9ZFvqPrTCMpu2VcFjAesHuE14="
+    },
+    {
+      "id": "document_path_xpath",
+      "xpath": "FqOjdS9LP1uNl4197hJJzqMfAdiP5xj6aD27ErgJSDM6HIByLAQtPQ=="
+    },
+    {
+      "id": "button_send_image_document_xpath",
+      "xpath": "Y7eTQ+X7QnITatMEdYLO11fn/l8ZRB7JeTInyQIx6XQGWt4XytSx+07kJf5VL+3V2FAZHPiRRvmpeEaGvSsFHA=="
     }
   ]
 }
