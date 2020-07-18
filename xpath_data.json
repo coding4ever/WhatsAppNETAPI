@@ -1,5 +1,5 @@
 {
-  "xpath_version": 3,
+  "xpath_version": 4,
   "xpath_data": [
     {
       "id": "wa_ready_xpath",
@@ -84,6 +84,10 @@
     {
       "id": "search_contact_in_chats_title_xpath",
       "xpath": "aPEm2EJzVSTz5dQwvmtvq5rWjLLd1hQa9Rv+IS+JqgHiHoG1i+RXCDRGKPuRGeTzKMOhr/DNV70sFYE6ZlhitLq+e9Takr/kJxOvYGb46XH4pUt49leKheifMSgGqymOswGBoLoMdWaErKMQ4xdZlQ=="
+    },
+    {
+      "id": "button_send_text_xpath",
+      "xpath": "FJmih/j94bZ8GwvLjatog96kJYWK2jMwqXhGhr0rBRw="
     }
   ]
 }
