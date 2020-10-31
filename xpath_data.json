@@ -1,5 +1,5 @@
 {
-  "xpath_version": 4,
+  "xpath_version": 5,
   "xpath_data": [
     {
       "id": "wa_ready_xpath",
@@ -11,7 +11,7 @@
     },
     {
       "id": "chat_input_xpath",
-      "xpath": "1CWJwYWgMdfz5dQwvmtvq5XvKtjx0+caWQbOLPMRGP/yqzMfOLsUUnMghc7Ob0q13UL6zeFHTmqxoLJNA+WFefD5wtkXL0f4"
+      "xpath": "1CWJwYWgMdfz5dQwvmtvq5XvKtjx0+caWQbOLPMRGP/yqzMfOLsUUnMghc7Ob0q13UL6zeFHTmqxoLJNA+WFeY5iz2LjP23o"
     },
     {
       "id": "search_contact_by_name_xpath",
@@ -59,7 +59,7 @@
     },
     {
       "id": "image_caption_xpath",
-      "xpath": "aPEm2EJzVSQ6kKvJlTR+1unk20613ExwL/PWNGHBWOC4SHPEtQdVYf/07/69ro+GSk02rVS+iZaN0L6t5/mlIp8SGr0DnRiPabRtiNisXuHSwkaRsV9ZFvqPrTCMpu2VcFjAesHuE14="
+      "xpath": "aPEm2EJzVSQ6kKvJlTR+1unk20613ExwL/PWNGHBWOC4SHPEtQdVYf/07/69ro+GSk02rVS+iZaN0L6t5/mlIp8SGr0DnRiPabRtiNisXuHSwkaRsV9ZFvqPrTCMpu2V9wBkR1sHkLs="
     },
     {
       "id": "document_path_xpath",
