@@ -1,9 +1,9 @@
 {
-  "xpath_version": 7,
+  "xpath_version": 8,
   "xpath_data": [
     {
       "id": "wa_ready_xpath",
-      "xpath": "aPEm2EJzVSSTPp9C/eDwf93UC/eV4Y/FfsWnjXcKpgKvBSORcwq76Ch2pc878+kbluLIOKQKaL6MaHoMngY+pA=="
+      "xpath": "aPEm2EJzVSQ6kKvJlTR+1r3Dy1dxEM9efsWnjXcKpgKvBSORcwq76Ch2pc878+kbluLIOKQKaL6MaHoMngY+pA=="
     },
     {
       "id": "search_input_xpath",
